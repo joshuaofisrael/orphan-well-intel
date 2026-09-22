@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joshuaofisrael.github.io/orphan-well-intel/sitemap.xml
